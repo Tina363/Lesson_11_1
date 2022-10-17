@@ -175,7 +175,7 @@ body {
   box-shadow: inset 5px 0px 10px black;
 }
 
-.upper-bottom__light-box {
+.upper-bottom__box {
   width: 70px;
   height: 60px;
   background-color: #a6a6a6;
@@ -183,17 +183,17 @@ body {
   border: 2px solid #000;
 }
 
-.upper-bottom__light-box_left {
+.upper-bottom__box_left {
   border-radius: 16% 84% 0% 100% / 74% 51% 49% 26%;
   box-shadow: -5px 0 10px #000;
 }
 
-.upper-bottom__light-box_right {
+.upper-bottom__box_right {
   border-radius: 84% 16% 100% 0% / 51% 74% 26% 49%;
   box-shadow: 5px 0 10px #000;
 }
 
-.upper-bottom__light-inner {
+.upper-bottom__inset {
   width: 40px;
   height: 40px;
   margin: 10px auto 0;
